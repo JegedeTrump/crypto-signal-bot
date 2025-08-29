@@ -1,0 +1,8 @@
+ccxt==3.0.57
+pandas==1.5.3
+numpy==1.24.1
+pandas_ta==0.3.14b0
+python-dotenv==0.21.0
+python-telegram-bot==13.7
+scipy==1.10.0
+talib-binary==0.4.24
